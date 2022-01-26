@@ -1,0 +1,294 @@
+<html>
+<h3> Reserva de sala </h3>
+
+<table border="1">
+<td> Horario </td>
+<td> Segunda </td>
+<td> Terça </td>
+<td> Quarta </td>
+<td> Quinta </td>
+<td> Sexta </td>
+
+<tr>
+
+<td> 07:00
+
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+
+</tr>
+
+<tr>
+
+<td> 08:00 </td>
+
+
+
+<td>
+	<a href="conexao rever.php"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 09:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 10:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 11:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 12:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 13:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 14:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 15:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 16:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 17:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 18:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td> 19:00 </td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+<td>
+	<a href="dadosajax"> Disponivel </a>
+</td>
+
+</tr>
+
+
+
+
+</html>
